@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+apikey.txt
+
+# Data
+data/raw/
+data/processed/
+*.zip
+*.xlsx
+
+# Model caches
+*.joblib
+*.pkl
